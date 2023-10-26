@@ -1,0 +1,31 @@
+
+h1{
+    font-size: 30px;
+    padding-top: 20px;
+}
+#locationIn{
+    width: 55%;
+    height: 25px;
+
+}
+#search{
+    width: 15%;
+    height: 40px;
+    border: none;
+    background-color: lightcyan;
+    color: black;
+    cursor: pointer;
+}
+body{
+    background-image: url('https://wallpaperaccess.com/full/443164.jpg');
+}
+.bg{
+    background-color: white ;
+    width: 25%;
+    height: 200px;
+}
+.bg1{
+    background-color: wheat;
+    width: 50%;
+    height: 190px;
+}
